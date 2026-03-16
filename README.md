@@ -28,7 +28,7 @@ Allow Gradle to sync and download the necessary dependencies.
 Click the Run button to launch the app on an Android Emulator or a physical device.
 
 📸 Screenshots
-([ ](https://drive.google.com/file/d/146bim3jiZXDefxgZL6UyBc-SOCQ-RCqZ/view?usp=sharing): ![App Screenshot](link_to_image.png))
+([Screenshot](https://drive.google.com/file/d/146bim3jiZXDefxgZL6UyBc-SOCQ-RCqZ/view?usp=sharing): ![App](link_to_image.png))
 
 👩‍💻 About the Developer
 Veenashree Computer Science Engineering Student | Aspiring Data Scientist & AI Enthusiast
